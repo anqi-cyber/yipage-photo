@@ -1,0 +1,8 @@
+node_modules/
+dist/
+unpackage/
+.hbuilderx/
+.edge-*/
+previews/
+.DS_Store
+*.log

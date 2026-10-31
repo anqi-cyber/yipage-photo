@@ -1,0 +1,31 @@
+{
+  "name": "一页写真",
+  "appid": "__UNI__F1E2D3C4",
+  "description": "面向大学生的校园写真预约小程序：选风格、挑套餐、约到店时间。",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "vueVersion": "3",
+  "mp-weixin": {
+    "appid": "touristappid",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "minified": true,
+      "postcss": true
+    },
+    "usingComponents": true,
+    "optimization": {
+      "subPackages": true
+    }
+  },
+  "h5": {
+    "title": "一页写真 YIPAGE",
+    "router": {
+      "mode": "hash"
+    }
+  },
+  "uniStatistics": {
+    "enable": false
+  }
+}
